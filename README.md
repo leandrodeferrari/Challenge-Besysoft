@@ -15,7 +15,7 @@ en el caso de vender hasta dos productos y un 10% al vender más de dos producto
 ## ESPECIFICACIONES:
 
 - Java 17.
-- JPA
+- JPA.
 - H2, para los datos en memoria.
 
 ## ACLARACIONES:
